@@ -1,0 +1,4 @@
+﻿  Form1.cpp
+c:\users\andrew\desktop\programforyou\chuprakova\graphprimkruskal\graphprimkruskal\form1.h(96): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\andrew\desktop\programforyou\chuprakova\graphprimkruskal\graphprimkruskal\form1.h(163): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+  GraphPrimKruskal.vcxproj -> C:\Users\Andrew\Desktop\programforyou\chuprakova\GraphPrimKruskal\Debug\GraphPrimKruskal.exe
